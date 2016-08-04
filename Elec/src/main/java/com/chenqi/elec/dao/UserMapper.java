@@ -3,22 +3,26 @@ package com.chenqi.elec.dao;
 
 import com.chenqi.elec.domain.User;
 
+import java.util.List;
+
 public interface UserMapper {
 
-    int deleteByPrimaryKey(Integer id);
+    int deleteByPrimaryKey(String id);
 
     int insert(User record);
 
     int insertSelective(User record);
 
-    User selectByPrimaryKey(Integer id);
+    User selectByPrimaryKey(String id);
 
     int updateByPrimaryKeySelective(User record);
 
     int updateByPrimaryKey(User record);
 
-    User selectId(int id);
+    List<User> getAll();
 
-    User selectLogin(String username);
+    List<User> getAll2();
+
+    List<User> getAll3();
 
 }

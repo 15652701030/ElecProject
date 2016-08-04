@@ -2,75 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ebb73a-cb87-4747-80d9-d104d8fa7e1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/Elec.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Elec_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Elec_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/util/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/jsp/indexuser.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/resources/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\artifacts\elecDemo_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\artifacts\elecDemo_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_38.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_aspectj_aspectjrt_1_8_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_mybatis_mybatis_3_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_11_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_data_spring_data_jpa_1_9_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_orm_4_1_9_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_test_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\.idea\libraries\Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\ElecDemo.iml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\src\main\resources\jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\src\main\resources\log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\src\main\resources\spring-mvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\src\main\resources\spring-mybatis.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\src\main\webapp\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\ElecDemo\src\main\webapp\index.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/UserRole.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Elec/src/main/resources/spring.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\commons-dbcp-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\commons-pool-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\fastjson-1.1.41.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\jackson-core-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\jackson-mapper-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\javaee-api-7.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\javax.mail-1.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\mybatis-3.2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\mybatis-spring-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\mysql-connector-java-5.1.30.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\slf4j-api-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\slf4j-log4j12-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-aop-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-beans-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-context-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-context-support-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-core-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-expression-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-jdbc-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-oxm-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-test-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-tx-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-web-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="G:\WorkSpace\IDEA\ElecProject\Elec\target\elec\WEB-INF\lib\spring-webmvc-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/domain/User.class" afterPath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/domain/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/domain/User.class" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/domain/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/controller/UserController.class" afterPath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/controller/UserController.class" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/dao/UserMapper.class" afterPath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/dao/UserMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/dao/UserMapper.class" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/dao/UserMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/service/UserService.class" afterPath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/service/UserService.class" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/Elec/target/classes/com/chenqi/elec/service/impl/UserServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/com/chenqi/elec/service/impl/UserServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec.war" afterPath="$PROJECT_DIR$/Elec/target/elec.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/Elec.iml" afterPath="$PROJECT_DIR$/Elec/Elec.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Elec_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Elec_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/UserService.java" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/UserService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/jdbc.properties" afterPath="$PROJECT_DIR$/Elec/target/classes/jdbc.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/jdbc.properties" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/jdbc.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/Elec/src/main/resources/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/Elec/target/classes/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/log4j.properties" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Elec/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/pom.xml" afterPath="$PROJECT_DIR$/Elec/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/resources/spring-mvc.xml" afterPath="$PROJECT_DIR$/Elec/src/main/resources/spring-mvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/spring-mvc.xml" afterPath="$PROJECT_DIR$/Elec/target/classes/spring-mvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/spring-mvc.xml" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/spring-mvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml" afterPath="$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/classes/spring-mybatis.xml" afterPath="$PROJECT_DIR$/Elec/target/classes/spring-mybatis.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/spring-mybatis.xml" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/classes/spring-mybatis.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/Elec/target/elec/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ElecProject.iws" />
@@ -96,102 +97,7 @@
     <favorites_list name="ElecProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="979" max-vertical-offset="2028">
-              <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/util/StringUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="2704">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="494">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Elec/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.81889766" vertical-offset="0" max-vertical-offset="4602">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="754">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="858">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="827" max-vertical-offset="1716">
-              <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elec/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="286">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,18 +105,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Elec/pom.xml" />
-        <option value="$PROJECT_DIR$/Elec/src/main/resources/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/UserService.java" />
-        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java" />
-        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java" />
-        <option value="$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml" />
-        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/util/StringUtils.java" />
+        <option value="$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Elec/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/Elec/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/Elec/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/Elec/pom.xml" />
+        <option value="$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/UserService.java" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/UserRole.java" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/Role.java" />
+        <option value="$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java" />
       </list>
     </option>
   </component>
@@ -268,7 +178,7 @@
     <option name="x" value="54" />
     <option name="y" value="-8" />
     <option name="width" value="1874" />
-    <option name="height" value="1092" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -295,7 +205,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -335,8 +244,30 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,6 +290,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,9 +336,176 @@
               <option name="myItemId" value="ElecProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ElecProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -426,8 +532,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\WorkSpace\IDEA\ElecProject\Elec\src\main\java\com\chenqi\elec\dao" />
       <recent name="G:\WorkSpace\IDEA\ElecProject\Elec\src\main\java\com\chenqi\elec\domain" />
+      <recent name="G:\WorkSpace\IDEA\ElecProject\Elec\src\main\java\com\chenqi\elec\dao" />
       <recent name="G:\WorkSpace\IDEA\ElecProject\Elec\src\main\java\com\chenqi\elec\service\impl" />
       <recent name="G:\WorkSpace\IDEA\ElecProject\Elec\src\main\java\com\chenqi\elec\service" />
       <recent name="G:\WorkSpace\IDEA\ElecProject\Elec\src\main\java\com\chenqi\elec\controller" />
@@ -711,7 +817,6 @@
       <method />
     </configuration>
     <configuration default="false" name="elec" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.52" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
-      <option name="OPEN_IN_BROWSER" value="false" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Elec:war exploded">
@@ -803,20 +908,22 @@
       <workItem from="1466690404873" duration="2021000" />
       <workItem from="1466948384443" duration="1550000" />
       <workItem from="1467896199112" duration="696000" />
-      <workItem from="1470323125243" duration="234000" />
+      <workItem from="1470323125243" duration="704000" />
+      <workItem from="1470324181462" duration="2353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4501000" />
+    <option name="totallyTimeSpent" value="7324000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1092" extended-state="0" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279396" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -824,27 +931,26 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972315" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19324474" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7173678" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.63538295" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -864,17 +970,17 @@
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.63538295" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39374325" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972315" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24970964" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -907,6 +1013,45 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1586">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1467#1483#0" expanded="true" />
+            <element signature="e#1522#1535#0" expanded="true" />
+            <element signature="e#1579#1597#0" expanded="true" />
+            <element signature="e#1641#1659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="754">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2184" max-vertical-offset="2600">
+          <caret line="84" column="76" selection-start-line="84" selection-start-column="76" selection-end-line="84" selection-end-column="76" />
+          <folding>
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="select from ..tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="update tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="update tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="SELECT tuser..tuser_trole..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="select ID, C..tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="SELECT tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="SELECT tuser..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="979" max-vertical-offset="2028">
@@ -921,7 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,13 +1246,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://G:/JavaSoftWear/Maven_repository/repository/org/springframework/spring-web/4.0.2.RELEASE/spring-web-4.0.2.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="702">
@@ -1124,20 +1260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="728">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2600">
-          <caret line="84" column="76" selection-start-line="84" selection-start-column="76" selection-end-line="84" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/jsp/indexuser.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.387096" vertical-offset="0" max-vertical-offset="416">
@@ -1145,80 +1267,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-47.84" vertical-offset="0" max-vertical-offset="1586">
-          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
-          <folding>
-            <element signature="e#1217#1233#0" expanded="true" />
-            <element signature="e#1266#1279#0" expanded="true" />
-            <element signature="e#1317#1335#0" expanded="true" />
-            <element signature="e#1373#1391#0" expanded="true" />
-            <element signature="e#1451#1472#0" expanded="true" />
-            <element signature="e#1539#1558#0" expanded="true" />
-            <element signature="e#1623#1640#0" expanded="true" />
-            <element signature="e#1705#1722#0" expanded="true" />
-            <element signature="e#1790#1807#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.640553" vertical-offset="94" max-vertical-offset="1430">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://G:/JavaSoftWear/Maven_repository/repository/org/springframework/spring-beans/4.0.2.RELEASE/spring-beans-4.0.2.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36466166" vertical-offset="28113" max-vertical-offset="28496">
           <caret line="1184" column="0" selection-start-line="1184" selection-start-column="0" selection-end-line="1184" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="2704">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="754">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="979" max-vertical-offset="2028">
-          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1247,14 +1299,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
           <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Elec/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1716">
-          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+        <state vertical-scroll-proportion="1.662037" vertical-offset="46" max-vertical-offset="1768">
+          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="676">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.32" vertical-offset="0" max-vertical-offset="546">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.24" vertical-offset="718" max-vertical-offset="1586">
+          <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2652">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1267,10 +1350,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elec/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/spring-mybatis.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81889766" vertical-offset="0" max-vertical-offset="4602">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state vertical-scroll-proportion="-34.2" vertical-offset="237" max-vertical-offset="3510">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="65" />
+          <folding>
+            <element signature="e#1467#1483#0" expanded="true" />
+            <element signature="e#1522#1535#0" expanded="true" />
+            <element signature="e#1579#1597#0" expanded="true" />
+            <element signature="e#1641#1659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41769317" vertical-offset="69" max-vertical-offset="962">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9025756" vertical-offset="0" max-vertical-offset="1352">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#980#981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1455767" vertical-offset="0" max-vertical-offset="893">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/mapping/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1915" max-vertical-offset="5200">
+          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+          <folding>
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="select from ..tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="update tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="update tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="SELECT tuser..tuser_trole..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="select ID, C..tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="SELECT tuser..." />
+            <marker date="1470326089730" expanded="true" signature="-1:-1" placeholder="SELECT tuser..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40761477" vertical-offset="0" max-vertical-offset="893">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="2392">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#1379#1380#0" expanded="true" />
+            <element signature="e#1412#1413#0" expanded="true" />
+            <element signature="e#1462#1463#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="832">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elec/src/main/java/com/chenqi/elec/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058230683" vertical-offset="0" max-vertical-offset="893">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>

@@ -1,22 +1,18 @@
 package com.chenqi.elec.service;
 
-
 import com.chenqi.elec.domain.User;
+
+import java.util.List;
+
 
 public interface UserService {
 
-	public User user(User user);
-	
-	public User selectLogin(String username);
+    public User getUserById(String id);
 
-	public User getUserById(int i);
+    List<User> getAll();
 
-	public User selectByPrimaryKey(int i);
-	
-	public User getUserByusername(String username);
-	
-	public int inster(User user);
-	
-	public Boolean getLoginUser(User user);
+    List<User> getAll2();
 
-}  
+    List<User> getAll3();
+
+}
